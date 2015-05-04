@@ -172,6 +172,9 @@ DOOR 35;44 # Solaris 2.5 and later
 BLK  33;44
 CHR  37;44
 
+# other writeable
+OTHER_WRITABLE 34
+
 
 #############################################################################
 ### By file attributes
